@@ -1,6 +1,6 @@
 # LEBUMFACIL-PROJECT
-A test repository, Hello Git!
+A test readme file, Hello GitHub!
 ## Authors
-* [@Jekoi1] (
+* [@Jekoi1](https://github.com/Jekoi1)
 ## Sample Code
-printf("Hello Github");
+`printf("Hello Github");`
