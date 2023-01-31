@@ -1,4 +1,4 @@
-# LEBUMFACI's PROJECT
+# LEBUMFACIL's PROJECT
 A test readme file, Hello GitHub!
 ## Authors
 * [@Jekoi1](https://github.com/Jekoi1)
