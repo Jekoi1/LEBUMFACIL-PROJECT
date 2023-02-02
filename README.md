@@ -1,5 +1,5 @@
 # LEBUMFACIL's PROJECT
-A test readme file, Hello GitHub!
+A test readME file, I AM LEARNING
 ## Authors
 * [@Jekoi1](https://github.com/Jekoi1)
 ## Sample Code
