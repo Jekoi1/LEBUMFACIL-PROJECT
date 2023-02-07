@@ -7,4 +7,3 @@ A test readME file, I AM LEARNING
 ## HOW TO INSTALL
 * step 1: Download the zip file or use clone
 * step 2: Sleep Early
-* step 2: Eat Breakfast
