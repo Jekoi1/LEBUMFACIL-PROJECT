@@ -6,3 +6,4 @@ A test readME file, I AM LEARNING
 `printf("Hello Github");`
 ## HOW TO INSTALL
 * step 1: Download the zip file or use clone
+* step 2: Sleep Early
