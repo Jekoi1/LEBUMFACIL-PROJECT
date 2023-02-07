@@ -9,3 +9,4 @@ A test readME file, I AM LEARNING
 * step 2: Sleep Early
 * step 3: Eat Breakfast
 * step 4: Do Homework
+* step 5: Miss na kita
