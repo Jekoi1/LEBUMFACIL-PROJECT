@@ -10,3 +10,5 @@ A test readME file, I AM LEARNING
 * step 3: Eat Breakfast
 * step 4: Do Homework
 * step 5: Miss na kita
+## HOW TO BRANCH
+
