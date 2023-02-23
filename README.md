@@ -11,4 +11,4 @@ A test readME file, I AM LEARNING
 * step 4: Do Homework
 * step 5: Miss na kita
 ## HOW TO BRANCH
-
+*Step 1: Create a new branch by using git branch<name>
